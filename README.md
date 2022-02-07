@@ -1,16 +1,45 @@
-# we_over_i
+# Dr.H.&.Co
 
-A new Flutter project.
+Dr H and Co enables you to book a Dentist appointment online at your prefered location.
+
+___
+
+# 🎯 Features
+- Book an appointment online.
+- Manage appointment schedules.
+- Virtual appointments. 
+- Meditation.
+- Manage Payments.
+
+___
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Clone the project and execute the following commands 
 
-A few resources to get you started if this is your first Flutter project:
+##### To fetch all external packages
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```sh
+flutter pub get
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##### To fetch available devices
+
+```sh
+flutter get devices
+```
+
+#### To run
+
+```sh
+flutter run
+```
+
+
+
+#### If no device is available or to get flutter Sdk refer to : https://docs.flutter.dev/get-started/install
+
+___
+
+# 
+
