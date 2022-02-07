@@ -16,6 +16,7 @@ ___
 ## Getting Started
 
 ### Clone the project and execute the following commands 
+(This requires having flutter & dart sdk's installed )
 
 ##### To fetch all external packages
 
@@ -41,5 +42,4 @@ flutter run
 
 ___
 
-# 
 
